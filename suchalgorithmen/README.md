@@ -7,3 +7,4 @@ Einige typische Suchalgorithmen für Suchprobleme werden hier mit Hilfe von Pyth
 Nähere Informationen zu:
 * [Min-/Max-Suche](https://informatik-ninja.de/post/suchalgorithmen-min-max-suche-und-lineare-suche-linear-search)
 * [Lineare Suche](https://informatik-ninja.de/post/suchalgorithmen-min-max-suche-und-lineare-suche-linear-search)
+* [Binäre Suche](https://informatik-ninja.de/post/suchalgorithmen-binaere-suche-binary-search)
